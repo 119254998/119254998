@@ -2,13 +2,15 @@
 <samp>
   <b>📌 who:</b>
   <br>
-  i'm david
+  my name is david
   <br>
-  bachelor's computer science student @ <a href="https://undergrad.cs.umd.edu/">university of maryland</a>
+  computer science undergraduate @ <a href="https://undergrad.cs.umd.edu/">university of maryland</a>
+  <br>
+  i like programming, linux, tinkering, and some math
   <br><br>
   <b>📂 selected works:</b>
   <br>
-  <i>under construction</i>
+  <i>under construction, come back later...</i>
   <br><br>
   <b>🕰 formerly:</b>
   <br>
