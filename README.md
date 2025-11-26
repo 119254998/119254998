@@ -4,11 +4,12 @@
   <br>
   my name is david
   <br>
-  computer science undergraduate @ <a href="https://undergrad.cs.umd.edu/">university of maryland</a>
+  computer science & mathematics undergraduate @ <a href="https://undergrad.cs.umd.edu/">university of maryland</a>
   <br>
   i like programming, linux, tinkering, and some math
   <br><br>
-  <b>📂 selected works:</b>
+  <b>📂 selected works:</b> <br>
+  <a href="https://github.com/119254998/dotfiles">my dotfiles</a>
   <br>
   <i>under construction, come back later...</i>
   <br><br>
