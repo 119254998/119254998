@@ -9,10 +9,10 @@
   i like programming, linux, tinkering, and some math
   <br><br>
   <b>📂 selected works:</b> <br>
-  <a href="https://github.com/119254998/dotfiles">my dotfiles</a>
+  <a href="https://github.com/119254998/dotfiles">my dotfiles</a> <br>
+  <a href="https://github.com/119254998/model-theory-rocq">elementary model theory in rocq</a> <br>
+  <i>under construction, come back later...</i> <br>
   <br>
-  <i>under construction, come back later...</i>
-  <br><br>
   <b>🕰 formerly:</b>
   <br>
   flight software for theia @ <a href="https://smallsats.umd.edu/theia/">umd satdev</a>
