@@ -9,8 +9,10 @@
   i like programming, linux, tinkering, and some math
   <br><br>
   <b>📂 selected works:</b> <br>
-  <a href="https://github.com/119254998/dotfiles">my dotfiles</a> <br>
+  <a href="https://github.com/119254998/dotfiles">dotfiles</a> <br>
   <a href="https://github.com/119254998/model-theory-rocq">elementary model theory in rocq</a> <br>
+  <a href="https://119254998.github.io/">website</a> <br>
+
   <i>under construction, come back later...</i> <br>
   <br>
   <b>🕰 formerly:</b>
